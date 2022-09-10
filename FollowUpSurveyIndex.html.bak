@@ -2,10 +2,17 @@
 
 <head>
 <title> Web ASS 1 - Follow Up Survey </title>
-<link rel="sylesheet" href = "SurveyLayout.css">
+<link rel="stylesheet" href = "SurveyLayout.css">
 </head>
 
 <body>
+
+<table class = "color-white" width="50%" align="center">
+<tr>
+<th class= "header-settings" height="20%"> Follow Up Survey </th>
+</tr>
+</table>
+
 </body>
 
 </html> 

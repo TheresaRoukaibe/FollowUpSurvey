@@ -1,3 +1,14 @@
 body {
-	background-color: red; 
+	background-color: grey; 
+}
+
+.color-white{
+	background-color: white;
+	color:maroon;
+}
+
+.header-settings{
+	font-family: "Arial Black";
+	font-size: 15px;
+	height:40px;
 }
