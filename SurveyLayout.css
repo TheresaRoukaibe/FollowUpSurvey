@@ -2,6 +2,10 @@ body {
 	background-color: grey; 
 }
 
+table{
+	border-collapse:collapse;
+}
+
 .color-white{
 	background-color: white;
 	color:maroon;
@@ -11,4 +15,11 @@ body {
 	font-family: "Arial Black";
 	font-size: 10px;
 	height:40px;
+	text-align:center;
+}
+
+.body-settings{
+	background-color: #E0E0E0;
+	color:maroon;
+	font-size: 5px;
 }
