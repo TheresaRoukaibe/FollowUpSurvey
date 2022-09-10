@@ -21,9 +21,10 @@
 <th width="50%"> Name of product or service </th> 
 </tr>
 
+<!-- Need to fix the size of the input fields -->
 <tr class = "row2-settings">
 <th> 
-<input type="date" id="d" name="d" class="date-settings">
+<input type="date" id="d" name="d" size=5 class="date-settings">
  </th>
 <th> <input type="text" class="date-settings"> </th>  
 </tr> 
