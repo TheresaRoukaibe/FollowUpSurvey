@@ -10,6 +10,7 @@ table{
 .color-white{
 	background-color: white;
 	color:maroon;
+	font-family: "Times New Roman";
 }
 
 .header-settings{
@@ -31,7 +32,7 @@ table{
 	background-color: #E0E0E0;
 	color:maroon;
 	font-size: 5px;
-	text-align:center;
+	text-align: center;
 	height:10px;
 }
 
@@ -40,5 +41,11 @@ table{
 	height:10px;
 	font-size: 5px;
 	width:75%;
-	text-align:center;
+	text-align:left;
+}
+
+.button-settings {
+	height:5px;
+	width:5px;
+	font-size: 3px;
 }
