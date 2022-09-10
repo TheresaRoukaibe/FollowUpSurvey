@@ -44,7 +44,7 @@
 </table>
 
 <table class = "color-white" width="50%" align="center">
-<tr class ="row2-settings"> 
+<tr class ="row2-settings" align="left"> 
 <th width="50%">
 <input type="radio" id="VeryS" name="radioB" class="button-settings">
 <label  for="VeryS"> Very Satisfied</label>
@@ -68,13 +68,25 @@
 <tr class ="row2-settings"> 
 <th width="50%">
 <input type="radio" id="VunS" name="radioB" class="button-settings">
-<label  for="VunS" font-size="3px"> Very Unsatisfied </label>
+<label  for="VunS"> Very Unsatisfied </label>
 </th>
 <th width="50%">
 <input type="radio" id="NoAns" name="radioB" class="button-settings">
 <label  for="NoAns"> N/A </label>
 </th>
 </tr>
+</table>
+
+<table class = "color-white" width="50%" align="center">
+<tr class ="body-settings"> 
+<th width="100%"> Did our product or service meet your expectations? 
+</th>
+</tr>
+
+</table>
+
+<table class = "color-white" width="50%" align="center">
+
 </table>
 
 </body>
