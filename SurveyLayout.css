@@ -24,15 +24,15 @@ table{
 	background-color: #E0E0E0;
 	color:maroon;
 	font-size: 5px;
-	text-align:center;
+	text-align:left;
 	height:20px;
 }
 
-.row2-settings{
+.rows-settings{
 	background-color: #E0E0E0;
 	color:maroon;
 	font-size: 5px;
-	text-align: center;
+	text-align: left;
 	height:10px;
 }
 
