@@ -88,11 +88,11 @@
 <table class = "color-white" width="50%" align="center">
 <tr class ="rows-settings"> 
 <th width="50%">
-<input type="radio" id="Y" name="radioB" class="button-settings">
+<input type="radio" id="Y" name="radioExp" class="button-settings">
 <label  for="Y"> Yes </label>
 </th>
 <th width="50%">
-<input type="radio" id="N" name="radioB" class="button-settings">
+<input type="radio" id="N" name="radioExp" class="button-settings">
 <label  for="N"> No </label>
 </th>
 </tr>
@@ -109,11 +109,11 @@
 <table class = "color-white" width="50%" align="center">
 <tr class ="rows-settings"> 
 <th width="50%">
-<input type="radio" id="Y" name="radioB" class="button-settings">
+<input type="radio" id="Y" name="radioRec" class="button-settings">
 <label  for="Y"> Yes </label>
 </th>
 <th width="50%">
-<input type="radio" id="N" name="radioB" class="button-settings">
+<input type="radio" id="N" name="radioRec" class="button-settings">
 <label  for="N"> No </label>
 </th>
 </tr>
@@ -130,21 +130,21 @@
 <table class = "color-white" width="50%" align="center">
 <tr class ="rows-settings"> 
 <th width="50%">
-<input type="radio" id="qual" name="radioB" class="button-settings">
+<input type="radio" id="qual" name="radioSat" class="button-settings">
 <label  for="qual"> Quality </label>
 </th>
 <th width="50%">
-<input type="radio" id="pr" name="radioB" class="button-settings">
+<input type="radio" id="pr" name="radioSat" class="button-settings">
 <label  for="pr">Price</label>
 </th>
 </tr>
 <tr class ="rows-settings"> 
 <th width="50%">
-<input type="radio" id="custServ" name="radioB" class="button-settings">
+<input type="radio" id="custServ" name="radioSat" class="button-settings">
 <label  for="custServ"> Customer Service </label>
 </th>
 <th width="50%">
-<input type="radio" id="inst" name="radioB" class="button-settings">
+<input type="radio" id="inst" name="radioSat" class="button-settings">
 <label  for="inst"> Installation or first use experience </label>
 </th>
 
@@ -163,21 +163,21 @@
 <table class = "color-white" width="50%" align="center">
 <tr class ="rows-settings"> 
 <th width="50%">
-<input type="radio" id="qual" name="radioB" class="button-settings">
+<input type="radio" id="qual" name="radioUnS" class="button-settings">
 <label  for="qual"> Quality </label>
 </th>
 <th width="50%">
-<input type="radio" id="pr" name="radioB" class="button-settings">
+<input type="radio" id="pr" name="radioUnS" class="button-settings">
 <label  for="pr">Price</label>
 </th>
 </tr>
 <tr class ="rows-settings"> 
 <th width="50%">
-<input type="radio" id="custServ" name="radioB" class="button-settings">
+<input type="radio" id="custServ" name="radioUnS" class="button-settings">
 <label  for="custServ"> Customer Service </label>
 </th>
 <th width="50%">
-<input type="radio" id="inst" name="radioB" class="button-settings">
+<input type="radio" id="inst" name="radioUnS" class="button-settings">
 <label  for="inst"> Installation or first use experience </label>
 </th>
 
@@ -202,6 +202,14 @@
 
 </table>
 
+<table class="color-white" width="50%" align = "center">
+<tr class="last-row-settings">
+<th width="100%"> 
+<input type="submit" id="sub" name="Sub" placeholder="Submit" align="center">
+</th>
+</tr>
+
+</table>
 
 </body>
 
